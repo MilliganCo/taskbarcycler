@@ -1,0 +1,10 @@
+bin/
+obj/
+publish/
+.vs/
+*.exe
+*.dll
+*.pdb
+*.user
+settings.json
+*.log
